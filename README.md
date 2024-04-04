@@ -9,7 +9,7 @@ Similarity measures for generalized propensity score matching (SGPSM) is a prope
 
 data <- read.csv("~/data.csv")
 
-source("~/SGPSM_v1.0.R")
+source("~/SGPSM.R")
 
 matched_data <- SGPSM(
   df = data,   # file name
