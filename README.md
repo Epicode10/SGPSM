@@ -32,6 +32,6 @@ matched_data <- SGPSM(
 R package: dplyr >= 1.0.8, proxyC >= 0.2.4
 
 # Papers
-Yi-Chia Su, Chih-Chien Wu, Yi-Hau Chen, Pei-Ting Lee, **Chien-Chou Su**. *Similarity measures for generalized propensity score matching with three treatment groups in cancer study: An idea from distance metrics in unsupervised learning* (2024; submission)
+Yi-Chia Su, Chih-Chien Wu, Yi-Hau Chen, Pei-Ting Lee, **Chien-Chou Su**. *Similarity measures for generalized propensity score matching with three target therapies in cancer study: An idea from distance metrics in unsupervised learning* (2024; submission)
 
 *Correspondent: Chien-Chou Su*
