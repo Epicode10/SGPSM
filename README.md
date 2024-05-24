@@ -1,5 +1,5 @@
 # SGPSM
-Similarity measures for generalized propensity score matching (SGPSM) is a propensity score method for multiple treatments matching. It can reduce confounding effects and provide unbiased average treatment effects for multiple treated groups, similar to other propensity score methods. This R code implements SGPSM for propensity score matching with (k >= 3) treated groups. 
+Similarity measures for generalized propensity score matching (SGPSM) is a propensity score method for multiple treatments matching. It can reduce confounding effects and provide unbiased average treatment effect for the treated (ATT) for multiple treated groups, similar to other propensity score methods. This R code implements SGPSM for propensity score matching with (k >= 3) treated groups. 
 
 
 # Usage
