@@ -32,7 +32,7 @@ matched_data <- SGPSM(
 R package: dplyr >= 1.0.8, proxyC >= 0.2.4
 
 # Conference
-**Chien-Chou Su**, Yi-Hau Chen, Edward Chia-Cheng Lai, Yi-Shan Tsai. *Similarity Measures for Generalized Propensity Score Matching With Multiple Treatments*. Taiwanese Association of Statistical Methodology, 2022. (https://pse.is/82rhm3). *Correspondent: Chien-Chou Su*
+**Chien-Chou Su**, Yi-Hau Chen, Edward Chia-Cheng Lai, Yi-Shan Tsai. *Similarity Measures for Generalized Propensity Score Matching With Multiple Treatments*. Taiwanese Association of Statistical Methodology, 2022. (https://drive.google.com/file/d/1FSb2dXm-XPgPGlxXhMB96vfMeGNjh_FN/view). *Correspondent: Chien-Chou Su*
 
 # Papers
 Yi-Chia Su, Chih-Chien Wu, Yi-Hau Chen, Pei-Ting Lee, **Chien-Chou Su**. *Similarity Measures for Generalized Propensity Score Matching With 3 Target Therapies in Cancer Study: Drawing From Distance Metrics in Unsupervised Learning* (2024; submission) *Correspondent: Chien-Chou Su*
